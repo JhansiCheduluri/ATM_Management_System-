@@ -1,2 +1,30 @@
-# ATM_System
-This project is a console-based ATM Management System developed using Python and Object-Oriented Programming (OOP) concepts. It simulates basic ATM functionalities and demonstrates how real-world banking operations can be modeled using classes and methods.
+# ATM Management System – Python
+
+## Project Description
+The ATM Management System is a console-based Python application that simulates basic ATM operations using Object-Oriented Programming (OOP). It allows users to authenticate using a PIN and perform common banking actions in a structured and secure way.
+
+## Features
+- PIN-based user authentication
+- Balance inquiry
+- Cash withdrawal
+- Cash deposit
+- Exit functionality
+
+## Technologies Used
+- Python
+- Object-Oriented Programming (OOP)
+
+## Concepts Implemented
+- Classes and Objects
+- Encapsulation
+- Methods and Constructors
+- Conditional statements
+- Loops
+
+## How to Run the Project
+1. Clone the repository
+2. Navigate to the project folder
+3. Run the program using:
+   ```bash
+   python atm.py
+
